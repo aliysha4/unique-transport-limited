@@ -1,0 +1,1 @@
+function ask(){let q=q=document.getElementById('q').value.toLowerCase();let a='Contact us for a quote.';if(q.includes('scotland'))a='Yes, nationwide coverage.';if(q.includes('pallet'))a='We transport pallets.';document.getElementById('out').innerText=a;}document.getElementById('f').onsubmit=e=>{e.preventDefault();alert('Quote requested');};

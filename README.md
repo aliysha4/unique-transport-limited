@@ -1,1 +1,1 @@
-# unique-transport-limited
+Upload truck photos to assets/scania.jpg and assets/mercedes.jpg
